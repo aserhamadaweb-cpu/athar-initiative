@@ -6,7 +6,7 @@ The website for the ATHAR youth volunteer initiative. People come here to read t
 
 English is the language of the site. Arabic is one tap away, at `/ar`, and it reads right to left.
 
-**Live site:** [athar-initiative-amber.vercel.app](https://athar-initiative-amber.vercel.app)
+**Live site:** [atharinitiative.vercel.app](https://atharinitiative.vercel.app)
 
 ## What visitors can do
 
